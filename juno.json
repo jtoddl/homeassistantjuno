@@ -3,7 +3,7 @@
   "wake_word": "juno",
   "author": "Todd Lee",
   "website": "https://github.com/jtoddl/homeassistantjuno",
-  "model": "https://raw.githubusercontent.com/jtoddl/homeassistantjuno/main/juno.tflite",
+  "model": "juno.tflite",
   "trained_languages": [
     "en"
   ],
