@@ -2,8 +2,8 @@
   "type": "micro",
   "wake_word": "juno",
   "author": "Todd Lee",
-  "website": "",
-  "model": "https://github.com/jtoddl/homeassistantjuno/raw/main/juno.tflite",
+  "website": "https://github.com/jtoddl/homeassistantjuno",
+  "model": "juno.tflite",
   "trained_languages": [
     "en"
   ],
